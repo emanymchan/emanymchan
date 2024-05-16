@@ -4,7 +4,7 @@
 - Linkedin: https://www.linkedin.com/in/eman-chan-5545211b2/
 - Pronouns: she/her
 - Fun fact: I am a marketing bachelor, but I did better in statistics than marketing units when I was doing my Bachelor's degree.
-- After years of working, I think it's time to learn something new. I am not from a tech background, but I was inspired by my bro, who is a software developer, to get into the analytics field. My study journey for my Master's degree has proven again I am actually better when working with numbers.
+- After years of working, I think it's time to learn something new. I am not from a tech background, but I was inspired by my bro, who is a software developer, to get into the analytics field. My study journey for my Master's degree has proven again I am actually better at working with numbers.
 
 <!---
 emanymchan/emanymchan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
