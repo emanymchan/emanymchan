@@ -1,6 +1,6 @@
 - Hi, I’m Eman, a recent graduate of Business Analytics.
 - I’m thrived to become a Business/Data Analyst.
-- I have just completed Master's in Business Analytics in 2024, specializing in AI for business.
+- I have completed Master's in Business Analytics in 2024, specializing in AI for business.
 - Linkedin: https://www.linkedin.com/in/eman-chan-5545211b2/
 - Pronouns: she/her
 - Fun fact: I am not from a tech background. I was inspired by my bro, who is an software developer, to get into this field.
